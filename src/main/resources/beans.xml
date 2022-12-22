@@ -1,0 +1,7 @@
+
+<!--根据名字自动装配-->
+<bean id="student" class="com.example.demo.work2.test02.Student" autowire="byName">
+<property name="name" value="jingling"/>
+</bean>
+
+
